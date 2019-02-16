@@ -1,0 +1,56 @@
+﻿  Compiling CUDA source file kernel.cu...
+  
+  C:\Users\Dell\source\repos\Projekt\Projekt\Default>"..\..\..\..\..\..\..\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.0\bin\nvcc.exe" -gencode=arch=compute_35,code=\"sm_35,compute_35\" --use-local-env -ccbin "C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\bin\HostX86\x64" -x cu  -IC:\ImageMagick\include -I"..\..\..\..\..\..\..\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.0\include" -I"..\..\..\..\..\..\..\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.0\include"  -G   --keep-dir x64\Debug -maxrregcount=0  --machine 64 --compile -cudart static  -g   -DWIN32 -DWIN64 -D_DEBUG -D_CONSOLE -D_MBCS -Xcompiler "/EHsc /W3 /nologo /Od /Fdx64\Debug\vc141.pdb /FS /Zi /RTC1 /MDd " -o x64\Debug\kernel.cu.obj "C:\Users\Dell\source\repos\Projekt\Projekt\Default\kernel.cu" 
+c:\users\dell\source\repos\projekt\projekt\default\CImg-2.5.0/CImg.h(2789): warning : statement is unreachable
+c:\users\dell\source\repos\projekt\projekt\default\CImg-2.5.0/CImg.h(2833): warning : statement is unreachable
+c:\users\dell\source\repos\projekt\projekt\default\CImg-2.5.0/CImg.h(30375): warning : statement is unreachable
+c:\users\dell\source\repos\projekt\projekt\default\CImg-2.5.0/CImg.h(30687): warning : statement is unreachable
+c:\users\dell\source\repos\projekt\projekt\default\CImg-2.5.0/CImg.h(30753): warning : statement is unreachable
+c:\users\dell\source\repos\projekt\projekt\default\CImg-2.5.0/CImg.h(30933): warning : statement is unreachable
+c:\users\dell\source\repos\projekt\projekt\default\CImg-2.5.0/CImg.h(31137): warning : statement is unreachable
+c:\users\dell\source\repos\projekt\projekt\default\CImg-2.5.0/CImg.h(51310): warning : statement is unreachable
+c:\users\dell\source\repos\projekt\projekt\default\CImg-2.5.0/CImg.h(16105): warning : integer operation result is out of range
+c:\users\dell\source\repos\projekt\projekt\default\CImg-2.5.0/CImg.h(30375): warning : statement is unreachable
+c:\users\dell\source\repos\projekt\projekt\default\CImg-2.5.0/CImg.h(30687): warning : statement is unreachable
+c:\users\dell\source\repos\projekt\projekt\default\CImg-2.5.0/CImg.h(30753): warning : statement is unreachable
+c:\users\dell\source\repos\projekt\projekt\default\CImg-2.5.0/CImg.h(30933): warning : statement is unreachable
+c:\users\dell\source\repos\projekt\projekt\default\CImg-2.5.0/CImg.h(31137): warning : statement is unreachable
+c:\users\dell\source\repos\projekt\projekt\default\CImg-2.5.0/CImg.h(30375): warning : statement is unreachable
+c:\users\dell\source\repos\projekt\projekt\default\CImg-2.5.0/CImg.h(30687): warning : statement is unreachable
+c:\users\dell\source\repos\projekt\projekt\default\CImg-2.5.0/CImg.h(30753): warning : statement is unreachable
+c:\users\dell\source\repos\projekt\projekt\default\CImg-2.5.0/CImg.h(30933): warning : statement is unreachable
+c:\users\dell\source\repos\projekt\projekt\default\CImg-2.5.0/CImg.h(31137): warning : statement is unreachable
+c:\users\dell\source\repos\projekt\projekt\default\CImg-2.5.0/CImg.h(30375): warning : statement is unreachable
+c:\users\dell\source\repos\projekt\projekt\default\CImg-2.5.0/CImg.h(30687): warning : statement is unreachable
+c:\users\dell\source\repos\projekt\projekt\default\CImg-2.5.0/CImg.h(30753): warning : statement is unreachable
+c:\users\dell\source\repos\projekt\projekt\default\CImg-2.5.0/CImg.h(30933): warning : statement is unreachable
+c:\users\dell\source\repos\projekt\projekt\default\CImg-2.5.0/CImg.h(31137): warning : statement is unreachable
+c:\users\dell\source\repos\projekt\projekt\default\CImg-2.5.0/CImg.h(16457): warning : statement is unreachable
+c:\users\dell\source\repos\projekt\projekt\default\CImg-2.5.0/CImg.h(30375): warning : statement is unreachable
+c:\users\dell\source\repos\projekt\projekt\default\CImg-2.5.0/CImg.h(30687): warning : statement is unreachable
+c:\users\dell\source\repos\projekt\projekt\default\CImg-2.5.0/CImg.h(30753): warning : statement is unreachable
+c:\users\dell\source\repos\projekt\projekt\default\CImg-2.5.0/CImg.h(30933): warning : statement is unreachable
+c:\users\dell\source\repos\projekt\projekt\default\CImg-2.5.0/CImg.h(31137): warning : statement is unreachable
+c:\users\dell\source\repos\projekt\projekt\default\CImg-2.5.0/CImg.h(30375): warning : statement is unreachable
+c:\users\dell\source\repos\projekt\projekt\default\CImg-2.5.0/CImg.h(30687): warning : statement is unreachable
+c:\users\dell\source\repos\projekt\projekt\default\CImg-2.5.0/CImg.h(30753): warning : statement is unreachable
+c:\users\dell\source\repos\projekt\projekt\default\CImg-2.5.0/CImg.h(30933): warning : statement is unreachable
+c:\users\dell\source\repos\projekt\projekt\default\CImg-2.5.0/CImg.h(31137): warning : statement is unreachable
+c:\users\dell\source\repos\projekt\projekt\default\CImg-2.5.0/CImg.h(30375): warning : statement is unreachable
+c:\users\dell\source\repos\projekt\projekt\default\CImg-2.5.0/CImg.h(30687): warning : statement is unreachable
+c:\users\dell\source\repos\projekt\projekt\default\CImg-2.5.0/CImg.h(30753): warning : statement is unreachable
+c:\users\dell\source\repos\projekt\projekt\default\CImg-2.5.0/CImg.h(30933): warning : statement is unreachable
+c:\users\dell\source\repos\projekt\projekt\default\CImg-2.5.0/CImg.h(31137): warning : statement is unreachable
+C:/Users/Dell/source/repos/Projekt/Projekt/Default/kernel.cu(15): warning : function "HandleError" was declared but never referenced
+c:\users\dell\source\repos\projekt\projekt\default\CImg-2.5.0/CImg.h(2789): warning : statement is unreachable
+c:\users\dell\source\repos\projekt\projekt\default\CImg-2.5.0/CImg.h(2833): warning : statement is unreachable
+c:\users\dell\source\repos\projekt\projekt\default\CImg-2.5.0/CImg.h(16457): warning : statement is unreachable
+c:\users\dell\source\repos\projekt\projekt\default\CImg-2.5.0/CImg.h(30375): warning : statement is unreachable
+c:\users\dell\source\repos\projekt\projekt\default\CImg-2.5.0/CImg.h(30687): warning : statement is unreachable
+c:\users\dell\source\repos\projekt\projekt\default\CImg-2.5.0/CImg.h(30753): warning : statement is unreachable
+c:\users\dell\source\repos\projekt\projekt\default\CImg-2.5.0/CImg.h(30933): warning : statement is unreachable
+c:\users\dell\source\repos\projekt\projekt\default\CImg-2.5.0/CImg.h(31137): warning : statement is unreachable
+c:\users\dell\source\repos\projekt\projekt\default\CImg-2.5.0/CImg.h(38688): warning : statement is unreachable
+c:\users\dell\source\repos\projekt\projekt\default\CImg-2.5.0/CImg.h(39178): warning : statement is unreachable
+c:\users\dell\source\repos\projekt\projekt\default\CImg-2.5.0/CImg.h(51310): warning : statement is unreachable
+  kernel.cu
